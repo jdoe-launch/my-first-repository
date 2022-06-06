@@ -1,3 +1,3 @@
 # Git Basics
 
-Practice repository to help learn Git workflows!
+Hello world, I love using git!
